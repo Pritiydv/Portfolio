@@ -1,0 +1,139 @@
+@media only screen and (max-width: 600px) {
+  .navbar {
+    background-color: #fff;
+  }
+
+  .carousel-control-next-icon{
+    width: 30px!important;
+    height: 30px!important;
+  }
+
+.carousel-control-prev-icon{
+    width: 30px!important;
+    height: 30px!important;
+}
+
+
+.greeting-text h1 {
+    font-size: 35px;
+    color: #323232;
+}
+
+
+.greeting-text{
+  text-align: center;
+}
+
+.greeting-text p{
+  font-size: 18px;
+}
+
+.button-contact{
+  padding: 10px 16px;
+    font-size: 16px;
+}
+
+
+.about-sec{
+  margin-top: 30px;
+}
+
+.skill-text{
+  text-align: center;
+}
+
+.skill-text h3{
+  font-size: 23px;
+}
+.skill-text ul li{
+  font-size: 14px;
+}
+
+.footer{
+  padding: 20px 0 0 0;
+}
+
+.icon-button i {
+    font-size: 0.9rem;
+    height: 2rem;
+    line-height: 2rem;
+    width: 2rem;
+    margin: 0 0px 7px;
+}
+
+}
+
+
+/*/////////////////new query/////////////////////*/
+
+
+@media only screen and (min-width: 600px) {
+
+.carousel-caption h1{
+  font-size: 22px;
+}
+
+.blue-bg{
+  font-size: 14px;
+}
+.hero-area{
+      min-height: 683px;
+}
+
+
+.greeting-text h1 {
+    font-size: 35px;
+    color: #323232;
+}
+
+
+.greeting-text p{
+  font-size: 18px;
+}
+
+.button-contact{
+  padding: 10px 16px;
+    font-size: 16px;
+}
+
+
+.ptb{
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.skill-text h3 {
+    font-size: 22px;
+    padding-top: 53px;
+  }
+
+
+.skill-text ul li {
+    font-size: 14px;
+    padding: 8px 0;
+    margin-left: -32px;
+}
+
+
+footer h2{
+  font-size: 20px;
+}
+
+
+footer p {
+    color: #ddd;
+    font-size: 12px;
+}
+
+.icon-button i {
+    font-size: 0.9rem;
+    height: 2rem;
+    line-height: 2rem;
+    width: 2rem;
+    margin: 0 0px 7px;
+}
+
+
+
+
+}
