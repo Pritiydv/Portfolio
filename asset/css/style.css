@@ -195,7 +195,7 @@ footer {
 
 
 .greeting-text h1{
-    font-size: 70px;
+    font-size: 60px;
     color: #323232;
 }
 
@@ -291,3 +291,92 @@ footer {
 }
 
 
+.education-text .card-header{
+background-color: #0bb3a3;
+}
+
+.education-text .card-header h5{
+    font-size: 27px;
+    color: #fff;
+    padding: 12px 10px;
+
+}
+
+.education-text .card-header p{
+    color: #fff;
+    font-size: 18px;
+    padding: 0px 0px 5px 11px;
+}
+
+.btn-website{
+    float: right;
+    font-size: 18px;
+    padding: 7px 38px;
+    border-radius: 0px;
+    background-color: #ffaa18 !important;
+    color: #fff;
+}
+
+.education-text .card-body p{
+        font-size: 20px;
+}
+
+
+.banner-text h1{
+
+}
+
+.accordion-button:not(.collapsed){
+    background-color: #0bb3a3;
+    font-size: 27px;
+    color: #fff;
+    padding: 17px 15px;
+}
+
+.accordion-button{
+    background-color: #0bb3a3;
+    font-size: 27px;
+    color: #fff;
+    padding: 17px 15px;
+
+}
+
+.accordion-button:focus{
+    background-color: #0bb3a3;
+    font-size: 27px;
+    color: #fff;
+    padding: 17px 15px;
+    border-color: #0bb3a3!important ;
+
+}
+
+#accordionFlushExample .accordion-button::after {
+    fill: #ffffff!important;
+}
+
+/* Change the color of the arrow in the expanded state */
+#accordionFlushExample .accordion-button:not(.collapsed)::after {
+    fill: #ffffff!important;; 
+}
+
+.accordion-body p{
+      font-size: 19px;
+}
+
+.education-text .card-header h5 {
+    font-size: 22px;
+}
+
+.education-text .card-header p {
+    color: #fff;
+    font-size: 14px;
+}
+
+.education-text .card-body p {
+    font-size: 14px;
+}
+
+.btn-website {
+    font-size: 14px;
+    padding: 7px 22px;
+}
