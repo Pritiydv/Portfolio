@@ -23,7 +23,7 @@ a, a:hover, a:focus {
 }
 
 .ptb{
-    padding-top: 70px;
+    padding-top: 93px;
     padding-bottom: 70px;
 }
 
@@ -37,7 +37,7 @@ a, a:hover, a:focus {
     right: 0;
     left: 0;
     z-index: 1030;
-    background: transparent;
+    background: #ffffff;
     border: 0;
     transition: all .5s ease;
     border-bottom: 1px solid #fefefe;
@@ -379,4 +379,14 @@ background-color: #0bb3a3;
 .btn-website {
     font-size: 14px;
     padding: 7px 22px;
+}
+
+.contact-text h1{
+    font-size: 37px;
+
+}
+
+
+.contact-text p{
+        margin-top: 26px;
 }
