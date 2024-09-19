@@ -123,8 +123,15 @@
 }
 
 .carousel-indicators{
-  top: 375px;
+  top: 532px;
 }
+
+.carousel-caption{
+  left: 14px;
+}
+
+
+
 .greeting-text h1 {
     font-size: 35px;
     color: #323232;
@@ -189,7 +196,7 @@ footer p {
 @media only screen and (max-width: 1024px) {
 
 .carousel-caption h1{
-  font-size: 29px;
+  font-size: 24px;
   margin-left: 32px;
 }
 
@@ -210,7 +217,7 @@ footer p {
 }
 
 .hero-area{
-  min-height: 800px;
+  min-height: 678px;
 }
 
 .greeting-text h1 {
@@ -262,6 +269,11 @@ footer p {
     line-height: 2rem;
     width: 2rem;
     margin: 0 0px 7px;
+}
+
+
+.carousel-caption{
+      left: 8px;
 }
 
 }

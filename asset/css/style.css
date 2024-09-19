@@ -107,8 +107,8 @@ a, a:hover, a:focus {
 
 .carousel-caption {
     position: relative;
-    margin-top: 30%;
-    left: 0;
+    margin-top: 18%;
+    left: 90px;
     text-align: left;
 }
 
@@ -116,8 +116,8 @@ a, a:hover, a:focus {
     margin-bottom: 30px;
     text-shadow: 2px 2px 1px #444;
     color: #fff;
-    font-size: 45px;
-    font-family: 'Merriweather', serif;
+    font-size: 43px;
+    font-family: 'Roboto Slab', serif;
     font-weight: 100;
 }
 
